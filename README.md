@@ -1,6 +1,12 @@
 # awesome-OOD-in-Dialogue-survey
 New Class Detection/Discovery in task-oriented conversation system. new intent, new slot...
 
+## Related repos:
+open set recognition list: https://github.com/zhunzhong07/awesome_OpenSetRecognition_list
+Benchmarking Generalized OOD Detection: https://github.com/Jingkang50/OpenOOD
+Generalized Out-of-Distribution Detection: A Survey: https://github.com/Jingkang50/OODSurvey
+Novel-Class-Discovery: https://github.com/JosephKJ/Awesome-Novel-Class-Discovery (updating)
+
 ## Preprints
 
 
@@ -8,6 +14,12 @@ New Class Detection/Discovery in task-oriented conversation system. new intent, 
 - Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive
 Learning Framework for OOD Intent Discovery (**EMNLP** 2022) [[paper]](https://arxiv.org/pdf/2210.08909.pdf) [[code]](https://github.com/myt517/KCOD) **OOD Intent Discovery**
 - New Intent Discovery with Pre-training and Contrastive Learning (**ACL** 2022) [[paper]](https://aclanthology.org/2022.acl-long.21.pdf) [[code]](https://github.com/zhang-yu-wei/MTP-CLNN) **OOD Intent Discovery**
+
+### **Papers for CV domain**
+- Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/pdf/2207.10659.pdf) [[code]]()
+- Generalized Category Discovery (**CVPR** 2022) [[paper]](https://arxiv.org/pdf/2201.02609.pdf) [[code]](https://github.com/sgvaze/generalized-category-discovery)
+- Spacing Loss for Discovering Novel Categories (**CVPR Workshop** 2022) [[paper]](https://arxiv.org/pdf/2204.10595.pdf)
+- Open-Set Recognition: A Good Closed-Set Classifier is All You Need? (**ICLR**2022) [[paper]](https://arxiv.org/pdf/2110.06207.pdf) [[code]](https://github.com/sgvaze/osr_closed_set_all_you_need)
 
 ## 2021
 - Discovering New Intents with Deep Aligned Clustering (**AAAI** 2021) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17689) [[code]](https://github.com/thuiar/DeepAligned-Clustering) **OOD Intent Discovery**
