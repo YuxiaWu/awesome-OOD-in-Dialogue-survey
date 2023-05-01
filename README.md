@@ -17,7 +17,10 @@ Novel-Class-Discovery: https://github.com/JosephKJ/Awesome-Novel-Class-Discovery
 - Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering.(**NAACL** 2022) [[paper]](https://aclanthology.org/2022.naacl-main.134.pdf) **OOD Intent Detection and Discovery**
 - Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive
 Learning Framework for OOD Intent Discovery (**EMNLP** 2022) [[paper]](https://arxiv.org/pdf/2210.08909.pdf) [[code]](https://github.com/myt517/KCOD) **OOD Intent Discovery**
+- Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning (**ACL-short** 2022) [[paper]](https://aclanthology.org/2022.acl-short.6.pdf) [[code]](https://github.com/myt517/DKT) **OOD Intent Discovery**
 - New Intent Discovery with Pre-training and Contrastive Learning (**ACL** 2022) [[paper]](https://aclanthology.org/2022.acl-long.21.pdf) [[code]](https://github.com/zhang-yu-wei/MTP-CLNN) **OOD Intent Discovery**
+- Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold (**NAACL** 2022) [[paper]](https://aclanthology.org/2022.naacl-main.307.pdf) [[code]](https://github.com/pris-nlp/NAACL2022-Reassigned_Contrastive_Learning_OOD) **OOD Intent Detection**
+
 
 ### **Papers for CV domain**
 - Novel Class Discovery without Forgetting (**ECCV** 2022) [[paper]](https://arxiv.org/pdf/2207.10659.pdf) [[code]]()
