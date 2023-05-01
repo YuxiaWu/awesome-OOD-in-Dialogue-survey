@@ -9,8 +9,12 @@ Novel-Class-Discovery: https://github.com/JosephKJ/Awesome-Novel-Class-Discovery
 
 ## Preprints
 
+## 2023
+- Generalized Category Discovery with Decoupled Prototypical Network.(**AAAI** 2023) [[paper]](https://arxiv.org/pdf/2211.15115.pdf) [[code]](https://github.com/Lackel/DPN) **OOD Intent Discovery**
+
 
 ## 2022
+- Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering.(**NAACL** 2022) [[paper]](https://aclanthology.org/2022.naacl-main.134.pdf) **OOD Intent Detection and Discovery**
 - Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive
 Learning Framework for OOD Intent Discovery (**EMNLP** 2022) [[paper]](https://arxiv.org/pdf/2210.08909.pdf) [[code]](https://github.com/myt517/KCOD) **OOD Intent Discovery**
 - New Intent Discovery with Pre-training and Contrastive Learning (**ACL** 2022) [[paper]](https://aclanthology.org/2022.acl-long.21.pdf) [[code]](https://github.com/zhang-yu-wei/MTP-CLNN) **OOD Intent Discovery**
