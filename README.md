@@ -10,14 +10,14 @@ Novel-Class-Discovery: https://github.com/JosephKJ/Awesome-Novel-Class-Discovery
 ## Preprints
 - Generalized Category Discovery with Large Language Models in the Loop. [[paper]](https://arxiv.org/pdf/2312.10897)
 - Transfer and Alignment Network for Generalized Category Discovery. [[paper]](https://arxiv.org/pdf/2312.16467)
-- Actively Discovering New Slots for Task-oriented Conversation. [[paper]](https://arxiv.org/pdf/2305.04049)
+- Actively Discovering New Slots for Task-oriented Conversation. [[paper]](https://arxiv.org/pdf/2305.04049) **OOD Slot Discovery**
 
 ## 2023
 - Generalized Category Discovery with Decoupled Prototypical Network.(**AAAI** 2023) [[paper]](https://arxiv.org/pdf/2211.15115.pdf) [[code]](https://github.com/Lackel/DPN) **OOD Intent Discovery**
 - DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery. (**EMNLP** 2023)  [[paper]](https://arxiv.org/pdf/2310.10151) [[code]](https://github.com/Lackel/DNA) **OOD Intent Discovery**
 - A Diffusion Weighted Graph Framework for New Intent Discovery. (**EMNLP** 2023)  [[paper]](https://arxiv.org/pdf/2310.15836) [[code]](https://github.com/yibai-shi/DWGF) **OOD Intent Discovery**
 - ClusterPrompt: Cluster Semantic Enhanced Prompt Learning for New Intent Discovery. (**Findings EMNLP** 2023) [[paper]](https://aclanthology.org/2023.findings-emnlp.702.pdf)
-- New User Intent Discovery with Robust Pseudo Label Training and Source Domain Joint-training. (IEEE Intelligent Systems)
+- New User Intent Discovery with Robust Pseudo Label Training and Source Domain Joint-training. (**IEEE Intelligent Systems**) **OOD Intent Discovery**
 - 
 
 ## 2022
@@ -28,7 +28,7 @@ Learning Framework for OOD Intent Discovery (**EMNLP** 2022) [[paper]](https://a
 - New Intent Discovery with Pre-training and Contrastive Learning (**ACL** 2022) [[paper]](https://aclanthology.org/2022.acl-long.21.pdf) [[code]](https://github.com/zhang-yu-wei/MTP-CLNN) **OOD Intent Discovery**
 - Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold (**NAACL** 2022) [[paper]](https://aclanthology.org/2022.naacl-main.307.pdf) [[code]](https://github.com/pris-nlp/NAACL2022-Reassigned_Contrastive_Learning_OOD) **OOD Intent Detection**
 - Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning.(**EMNLP** 2022) [[paper]](https://arxiv.org/pdf/2210.07733) [[code]](https://github.com/Lackel/Hierarchical_Weighted_SCL)
-- Semi-supervised New Slot Discovery with Incremental Clustering. (**Findings EMNLP** 2022) [[paper]](https://aclanthology.org/2022.findings-emnlp.462.pdf)
+- Semi-supervised New Slot Discovery with Incremental Clustering. (**Findings EMNLP** 2022) [[paper]](https://aclanthology.org/2022.findings-emnlp.462.pdf) **OOD Slot Discovery**
 - 
 
 ### **Papers for CV domain**
