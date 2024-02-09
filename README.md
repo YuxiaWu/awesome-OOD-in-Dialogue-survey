@@ -8,22 +8,27 @@ Generalized Out-of-Distribution Detection: A Survey: https://github.com/Jingkang
 Novel-Class-Discovery: https://github.com/JosephKJ/Awesome-Novel-Class-Discovery (updating)
 
 ## Preprints
+
 - Generalized Category Discovery with Large Language Models in the Loop. [[paper]](https://arxiv.org/pdf/2312.10897)
 - Transfer and Alignment Network for Generalized Category Discovery. [[paper]](https://arxiv.org/pdf/2312.16467)
 - Actively Discovering New Slots for Task-oriented Conversation. [[paper]](https://arxiv.org/pdf/2305.04049) **OOD Slot Discovery**
-- APP: Adaptive Prototypical Pseudo-Labeling for Few-shot OOD Detection [[paper]](https://arxiv.org/pdf/2310.13380) **OOD Detection**
+- 
 - Continual Generalized Intent Discovery: Marching Towards Dynamic and Open-world Intent Recognition [[paper]](https://arxiv.org/pdf/2310.10184)
 - 
 
 ## 2023
+- Continual Generalized Intent Discovery: Marching Towards Dynamic and Open-world Intent Recognition(Findings **EMNLP** 2023) [[paper]](https://openreview.net/pdf?id=kc2YhavobV)
+- APP: Adaptive Prototypical Pseudo-Labeling for Few-shot OOD Detection (Findings **EMNLP** 2023) [[paper]](https://arxiv.org/pdf/2310.13380) **OOD Detection**
+- Decoupling Pseudo Label Disambiguation and Representation Learning for Generalized Intent Discovery.(**ACL** 2023) [[paper]](https://arxiv.org/abs/2305.17699) **OOD Intent Discovery**
 - Generalized Category Discovery with Decoupled Prototypical Network.(**AAAI** 2023) [[paper]](https://arxiv.org/pdf/2211.15115.pdf) [[code]](https://github.com/Lackel/DPN) **OOD Intent Discovery**
 - DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery. (**EMNLP** 2023)  [[paper]](https://arxiv.org/pdf/2310.10151) [[code]](https://github.com/Lackel/DNA) **OOD Intent Discovery**
 - A Diffusion Weighted Graph Framework for New Intent Discovery. (**EMNLP** 2023)  [[paper]](https://arxiv.org/pdf/2310.15836) [[code]](https://github.com/yibai-shi/DWGF) **OOD Intent Discovery**
-- ClusterPrompt: Cluster Semantic Enhanced Prompt Learning for New Intent Discovery. (**Findings EMNLP** 2023) [[paper]](https://aclanthology.org/2023.findings-emnlp.702.pdf)
+- ClusterPrompt: Cluster Semantic Enhanced Prompt Learning for New Intent Discovery. (**Findings EMNLP** 2023) [[paper]](https://aclanthology.org/2023.findings-emnlp.702.pdf) **OOD Intent Discovery**
 - New User Intent Discovery with Robust Pseudo Label Training and Source Domain Joint-training. (**IEEE Intelligent Systems**) **OOD Intent Discovery**
 - Large Language Models Meet Open-World Intent Discovery and Recognition: An Evaluation of ChatGPT. (**EMNLP** 2023)  [[paper]](https://arxiv.org/abs/2310.10176) [[code]](https://github.com/songxiaoshuai/OOD-Evaluation) **OOD Intent Discovery**
 
 ## 2022
+- Generalized Intent Discovery: Learning from Open World Dialogue System. (**COLING** 2022) [[paper]](https://aclanthology.org/2022.coling-1.59.pdf) **OOD Intent Discovery**
 - Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering.(**NAACL** 2022) [[paper]](https://aclanthology.org/2022.naacl-main.134.pdf) **OOD Intent Detection and Discovery**
 - Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive
 Learning Framework for OOD Intent Discovery (**EMNLP** 2022) [[paper]](https://arxiv.org/pdf/2210.08909.pdf) [[code]](https://github.com/myt517/KCOD) **OOD Intent Discovery**
